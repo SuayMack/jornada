@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+}
+
+body {
+  text-align: center;
+  padding-top: 160px;
+}
+
+h1 {
+  color: #ffc700;
+  font-weight: 400 ;
+}
